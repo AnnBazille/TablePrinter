@@ -1,8 +1,8 @@
 #not including the build files
 TablePrinter/TablePrinter/bin
 TablePrinter/TablePrinter/obj
-TablePrinterDemo/TablePrinter/bin
-TablePrinterDemo/TablePrinter/obj
+TablePrinterDemo/TablePrinterDemo/bin
+TablePrinterDemo/TablePrinterDemo/obj
 
 #Visual Studio project files
 TablePrinter/.vs
