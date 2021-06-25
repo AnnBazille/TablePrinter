@@ -1,0 +1,11 @@
+#not including the build files
+TablePrinter/TablePrinter/bin
+TablePrinter/TablePrinter/obj
+TablePrinterDemo/TablePrinter/bin
+TablePrinterDemo/TablePrinter/obj
+
+#Visual Studio project files
+TablePrinter/.vs
+TablePrinterDemo/.vs
+*.sln
+*.csproj
